@@ -1,0 +1,57 @@
+!!! Font f_orator uses a font (Orator Std) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\f_orator\f_orator.gms1.png
+Converting GML script: ${project_dir}\objects\o_bserver\Mouse_11.gml
+Converted description /// @description  Alpha 1
+
+Converting GML script: ${project_dir}\objects\o_bserver\Mouse_7.gml
+Converted description /// @description  Alpha 1
+
+Converting GML script: ${project_dir}\objects\o_bserver\Mouse_0.gml
+Converted description /// @description  Alpha 0.5
+
+Converting GML script: ${project_dir}\objects\o_bclient\Mouse_11.gml
+Converted description /// @description  Alpha 1
+
+Converting GML script: ${project_dir}\objects\o_bclient\Mouse_7.gml
+Converted builtin - line 7: view_wview = 32 -> __view_set( e__VW.WView, 0, 32 )
+Converted builtin - line 8: view_hview = 32 -> __view_set( e__VW.HView, 0, 32 )
+Converted builtin - line 5: view_wport = 32 -> __view_set( e__VW.WPort, 0, 32 )
+Converted builtin - line 6: view_hport = 32 -> __view_set( e__VW.HPort, 0, 32 )
+Converted description /// @description  Alpha 1
+
+Converting GML script: ${project_dir}\objects\o_bclient\Mouse_0.gml
+Converted description /// @description  Alpha 0.5
+
+Converting GML script: ${project_dir}\objects\o_server\Create_0.gml
+Converted description /// @description  Create Server
+
+Converting GML script: ${project_dir}\objects\o_server\Step_0.gml
+Converted description /// @description  Send Buffer - STATUS_FROM_SERVER
+
+Converting GML script: ${project_dir}\objects\o_server\Other_68.gml
+Converted description /// @description  Networking - Connect
+
+Converting GML script: ${project_dir}\objects\o_server\Other_3.gml
+Converted description /// @description  Destroy Network Connection
+
+Converting GML script: ${project_dir}\objects\o_client\Create_0.gml
+Converted description /// @description  Connect to Server
+
+Converting GML script: ${project_dir}\objects\o_client\Alarm_0.gml
+Converted description /// @description  Server Timeout
+
+Converting GML script: ${project_dir}\objects\o_client\Other_68.gml
+Converted description /// @description  Networking - Data
+
+Converting GML script: ${project_dir}\objects\o_client\Other_3.gml
+Converted description /// @description  Destroy Network Connection
+
+Game speed set to 30
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script '__global_object_depths.gml'
